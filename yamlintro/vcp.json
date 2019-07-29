@@ -1,0 +1,1 @@
+[{"app": "nova", "service": "computer"}, {"app": "newtron", "service": "network"}, {"app": "cinder", "service": "clock"}, {"app": "whatchadoit", "service": "thingamabob"}, {"service": "Identity", "app": "keystone"}]
